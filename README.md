@@ -45,6 +45,16 @@ The simulation generates two plots:
 1. Rocket velocity vs time
 2. Rocket mass vs time
 
+## Simulation Results
+
+### Rocket Velocity
+
+![Rocket Velocity](rocket_velocity_plot.png)
+
+### Rocket Mass
+
+![Rocket Mass](rocket_mass_plot.png)
+
 ## Technologies used
 
 Python  
